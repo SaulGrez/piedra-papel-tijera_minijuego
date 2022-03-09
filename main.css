@@ -1,0 +1,41 @@
+.container-p {
+       display: inline-block;
+       box-sizing: border-box;
+}
+
+.container-t{
+        display: inline-block;
+        box-sizing: content-box;
+}
+
+.container-r{
+        display: inline-block;
+}
+
+.papel{
+      width: 150px;
+      height: 150px;
+      border-radius: 40px;
+      margin: 3px;
+     padding: auto;
+}
+
+.tijera{
+    border-radius: 40px;
+    width: 150px;
+    height: 150px;
+    margin: 3px;
+
+   
+   
+}
+.roca{
+    width: 150px;
+    height: 150px;
+    border-radius: 40px;
+    margin: 3px;
+}
+
+.parrafo{
+     margin-top: 120px;
+}
